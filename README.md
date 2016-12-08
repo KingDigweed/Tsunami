@@ -13,6 +13,6 @@ Version 2:
 + Layer 7 attacks can be done using "Slow headers" or "Slow posts"
 + Two tabs - one for Layer 4 and the other for Layer 7 attacks
 
-* Bug fixed
+* Bug fixes
 * Improved status indicator
 * Improved stability
