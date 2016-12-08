@@ -1,5 +1,5 @@
 # Tsunami
-An superior alternative to LOIC and Switchblade
+A superior alternative to LOIC and Switchblade
 
 Tsunami is a more professional and efficient version of the network stress
 tester / denial of service tools known as LOIC (Low Orbit Ion Cannon) and
